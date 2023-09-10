@@ -10,6 +10,7 @@ public class MySpringBootApplicatonApplication {
         SpringApplication.run(MySpringBootApplicatonApplication.class, args);
         System.out.println("hi this is my My springboot application....");
         System.out.println("this is  Myspringboot application....");
+        System.out.println("This  is  MySpringboot application....");
     }
 
 }
