@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
+//this is my Crud example for the user class...
 public class UserController {
   private final UserService userService;
 @Autowired
