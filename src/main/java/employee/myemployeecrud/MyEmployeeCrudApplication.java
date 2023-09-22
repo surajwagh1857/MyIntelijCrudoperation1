@@ -8,6 +8,7 @@ public class MyEmployeeCrudApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(MyEmployeeCrudApplication.class, args);
+        System.out.println("My employee crud operation....!!!");
     }
 
 }
